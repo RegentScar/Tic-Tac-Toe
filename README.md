@@ -1,4 +1,4 @@
-## Tic Tac Toe in Java
+## TicTacToe in Java
 
 Dieses Projekt ist eine einfache Konsolenanwendung für das Spiel **Tic Tac Toe**, programmiert in Java. Zwei Spieler treten abwechselnd gegeneinander an und platzieren ihre Zeichen (`X` oder `O`) auf einem 3x3-Spielfeld. Das Spiel überprüft nach jedem Zug, ob ein Spieler gewonnen hat oder ob das Spiel unentschieden endet.
 
